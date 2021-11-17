@@ -1,0 +1,46 @@
+{
+  "_from": "mixxi@1.0.14",
+  "_id": "mixxi@1.0.14",
+  "_inBundle": false,
+  "_integrity": "sha512-jrH3OBJ7MIqArdTiSZddZ78PuG7XRw02ma5mW2WCtR1Ybtck3Gd85JJ6DnSUJiaur04rnV5blfKZVMga2LRGOg==",
+  "_location": "/mixxi",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "mixxi@1.0.14",
+    "name": "mixxi",
+    "escapedName": "mixxi",
+    "rawSpec": "1.0.14",
+    "saveSpec": null,
+    "fetchSpec": "1.0.14"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/mixxi/-/mixxi-1.0.14.tgz",
+  "_shasum": "53411be28b5c648a665cc32b29c009bf6814fbec",
+  "_spec": "mixxi@1.0.14",
+  "_where": "/home/runner/mixxi-test-2",
+  "author": "",
+  "bin": {
+    "mixxi": "index.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "keypress": "^0.2.1",
+    "uglify-js": "^3.14.3"
+  },
+  "deprecated": false,
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "mixxi",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.14"
+}
