@@ -1,6 +1,10 @@
-![Mixxi](logo.png)
-#   ‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎ Mixxi: A tool for mixing  ‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎  files into one.
+<p align="center">
+<img src="logo.png">
+<h1 align="center"> Mixxi: A tool for mixing files into one. </h1>
+</p>
+<p align="center">
 Mixxi is a tool written in JavaScript to mix files into one.
+</p>
 
 # Usage
 Install using:
