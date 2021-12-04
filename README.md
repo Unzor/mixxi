@@ -20,7 +20,7 @@ mixxi --init
 You should be prompted for the files to mix together.
 Once finished, press ESC to create control file.
 
-When you are ready to mix together the files, run this command. Take note that this will remove the files you chose to mix together.
+When you are ready to mix together the files, run this command:
 ```
 mixxi bundle <output_file>.js
 ```
